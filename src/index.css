@@ -10,8 +10,6 @@
 
 .app-container {
   height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: center ;
+  display: grid;
   background-color: blanchedalmond;
 }
